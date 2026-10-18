@@ -1,6 +1,6 @@
 {
   "A": {
-    "text": "Report job-69438ddb: café\nReady ✔",
+    "text": "Report job-69438ddb: café\nReady ✓",
     "complete": true,
     "error": null
   },
@@ -15,5 +15,6 @@
     "error": "model unloaded"
   }
 }
+
 
 
